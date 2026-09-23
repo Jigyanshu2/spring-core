@@ -1,0 +1,20 @@
+# Maven build outputs
+target/
+*.pom.properties
+*.jar
+*.war
+
+# Gradle build outputs
+build/
+.gradle/
+
+# IntelliJ IDEA settings
+.idea/
+*.iml
+out/
+gen/
+
+# Log files and OS files
+*.log
+.DS_Store
+Thumbs.db
